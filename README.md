@@ -1,3 +1,6 @@
+<h2 align="center"> hi, i'm <a href="https://codeforces.com/profile/KhaledKEE">khaledkee</a> </h2>
+<h3 align="center"> Computer Vision Engineer for Medical Imaging </h3>
+
 ### Primary Languages
 
 ![Arabic](https://img.shields.io/badge/-Arabic-05122A?style=flat&logo=egypt)
@@ -8,8 +11,8 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-C#-05122A?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 
 ### Tools
 
@@ -20,18 +23,16 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
 ![ONNX](https://img.shields.io/badge/-onnx-05122A?style=flat&logo=onnx)
 
+![qt](https://img.shields.io/badge/-qt-05122A?style=flat&logo=qt)
+
 ### Stats
 
 <!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=5068410" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5068410&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @khaledkee" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5068410&image_size=auto&color_scheme=light" width="771" height="auto">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@khaledkee/439740c7-a2c7-4538-ad08-68bb014a05f4.svg" width="771" height="auto">
+   <img alt="Coding activity of @khaledkee" src="https://wakatime.com/share/@khaledkee/439740c7-a2c7-4538-ad08-68bb014a05f4.svg" width="771" height="auto">
   </picture>
-</a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ### Visitor Count
 
