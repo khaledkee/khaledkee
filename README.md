@@ -29,8 +29,8 @@
 
 <!-- Copy-paste in your Readme.md file -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@khaledkee/439740c7-a2c7-4538-ad08-68bb014a05f4.svg" width="771" height="auto">
-   <img alt="Coding activity of @khaledkee" src="https://wakatime.com/share/@khaledkee/439740c7-a2c7-4538-ad08-68bb014a05f4.svg" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@khaledkee/439740c7-a2c7-4538-ad08-68bb014a05f4.svg" width="480" height="auto">
+   <img alt="Coding activity of @khaledkee" src="https://wakatime.com/share/@khaledkee/439740c7-a2c7-4538-ad08-68bb014a05f4.svg" width="480" height="auto">
   </picture>
 
 
