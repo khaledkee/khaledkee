@@ -1,11 +1,6 @@
 <h2 align="center"> hi, i'm <a href="https://codeforces.com/profile/KhaledKEE">khaledkee</a> </h2>
 <h3 align="center"> Computer Vision Engineer for Medical Imaging </h3>
 
-### Primary Languages
-
-![Arabic](https://img.shields.io/badge/-Arabic-05122A?style=flat&logo=egypt)
-![English](https://img.shields.io/badge/-English-05122A?style=flat&logo=united-kingdom)
-
 ### Programming Languages
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
